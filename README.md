@@ -6,7 +6,7 @@
 
 Language support for ABAP CDS views. Includes syntax higlighting and code snippets.
 
-If you're looking for CDS for SAP Cloud Platform Application Programming Model (CAP), you won't find it in the marketplace yet. However, you can download it as a .vsix from [here](https://tools.hana.ondemand.com/#hanatools).
+If you're looking for CDS for SAP Cloud Platform Application Programming Model (CAP) please check out [SAP CDS Language Support](https://marketplace.visualstudio.com/items?itemName=SAPSE.vscode-cds) in the Visual Studio Marketplace yet.
 
 ![sample screenshot](screenshot.png)
 
